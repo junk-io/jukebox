@@ -24,10 +24,6 @@ It started with the 2<sup>nd</sup> of these functions and the interesting observ
 
 All calculations return and are performed using a `Natural`, which raises a `TypeError` or `ValueError` when initiated with a non-integral type or negative integer, respectively.
 
-<u>**Installation**</u>
-
-	pip install jukebox
-
 ## Use
 
 ---
